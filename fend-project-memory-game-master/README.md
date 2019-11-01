@@ -5,7 +5,7 @@
 * [Disclaimer](#disclaimer)
 * [Instructions](#instructions)
 
-##Disclaimer
+## Disclaimer
 
 This game is made for Educational purposes to pass the Udacity FEND and learn through the process.
 
