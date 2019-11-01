@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-* [Disclaimer]
+* [Disclaimer](#disclaimer)
 * [Instructions](#instructions)
 
 ##Disclaimer
